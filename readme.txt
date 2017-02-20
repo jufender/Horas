@@ -1,5 +1,5 @@
     
-                                            Ponto em perl
+                                                    Ponto em perl
     
     O programa de horas cumpridas foi feito em perl para calcular as horas semanais cumpridas e saber quanto falta para fechar o mês, podendo assim ter controle das horas trabalhadas. 
     Criado por Júlia Almeida e Daniel Morais em 2016.
